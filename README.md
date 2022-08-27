@@ -1,2 +1,2 @@
 # Rust-External-Overlay
-This is a previous project. It may be used after the offset is updated.
+I removed the driver part because it has been found by EAC. You need to replace your driver.
